@@ -1,6 +1,6 @@
 # test19-01-LearningGithub
 My first repo
-
+Adiós calse!!
 
 Esto es _cursiva_ y la negrita es **asi**
 
@@ -8,5 +8,3 @@ Esto es _cursiva_ y la negrita es **asi**
 
 Los buenos nombres de repositorios son cortos y fáciles de recordar.
 
-
-Ey jaja que pasa
